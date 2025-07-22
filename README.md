@@ -10,5 +10,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iLorenzz&layout=compact&theme=tokyo-night" alt="Most used languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iLorenzz&layout=compact" alt="Most used languages">
 </p>
