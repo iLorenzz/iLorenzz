@@ -1,4 +1,4 @@
-<h2 align="center">Lorenzo Dutra <img href="https://github.com/dino460" align='right' src="https://github-readme-stats.vercel.app/api?username=dino460&theme=dark&hide_border=false&include_all_commits=true&show_icons=true" alt="Github Stats" /></h2>
+<h2 align="center">Lorenzo Dutra /h2>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
