@@ -1,4 +1,4 @@
-<h2 align="center">Lorenzo Vicentin <h2>
+<h2 align="center">Lorenzo Dutra Vicentin <h2>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
