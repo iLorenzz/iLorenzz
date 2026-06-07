@@ -12,3 +12,12 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iLorenzz&layout=compact&theme=dracula" alt="Most used languages">
 </p>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/guilhermefelipetto/guilhermefelipetto/main/github-readme-stats.svg" alt="GitHub Stats" height="180"/>
+  <img src="https://raw.githubusercontent.com/guilhermefelipetto/guilhermefelipetto/main/top-langs-metrics.svg?cachebust=1" alt="Top Languages" height="180"/>
+</p>
